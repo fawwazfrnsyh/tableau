@@ -1,5 +1,5 @@
 ![Screenshot (343)](https://user-images.githubusercontent.com/107783827/229304539-f2a349fd-acce-4dc7-aa33-13bd8795aefc.png)
-
+Tableau Public Link : https://public.tableau.com/views/CoffeeShopDashboard_16803679821330/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 What is your strategy to improve revenue? Please give some evidence to support your answer!
 
